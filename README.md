@@ -1,11 +1,6 @@
 # 🏄‍♂️ Aziz Bejaoui
 
 **`Digital Craftsman (Developer/Data Scientist)`**
-
-I'm a computer vision specialist and content creator, passionately exploring the intersection of AI and sports. My projects are designed from the ground up, combining innovative ideas with advanced coding techniques to solve real-world challenges, like analyzing football videos and generating meaningful insights. Similarly, my video content follows a meticulous process—from ideation to editing—blending technical expertise with creative storytelling. I share this content on my YouTube channel, focused on computer vision in sports, to help others learn and get inspired.
-
-
-
 ---
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -31,16 +26,7 @@ I'm a computer vision specialist and content creator, passionately exploring the
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
+I'm a computer vision specialist and content creator, passionately exploring the intersection of AI and sports. My projects are designed from the ground up, combining innovative ideas with advanced coding techniques to solve real-world challenges, like analyzing football videos and generating meaningful insights. Similarly, my video content follows a meticulous process—from ideation to editing—blending technical expertise with creative storytelling. I share this content on my YouTube channel, focused on computer vision in sports, to help others learn and get inspired.
 ###
 
 <div align="left">
